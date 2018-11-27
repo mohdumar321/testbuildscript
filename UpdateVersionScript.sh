@@ -1,5 +1,5 @@
 #!/bin/bash
 
 bash ./script > temp
-cp temp test
+cp temp pom.xml
 rm temp
