@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
 <project>
     <modelVersion>1234</modelVersion>
     <parent>
         <groupId>bigboss</groupId>
         <artifactId>hello</artifactId>
-        <version>125</version>
+        <version>126</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 </project>
