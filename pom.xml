@@ -1,7 +1,22 @@
+<project>
+    <modelVersion>1234</modelVersion>
+    <parent>
+        <groupId>bigboss</groupId>
+        <artifactId>bigboss12</artifactId>
+        <version>season12</version>
+    </parent>
 
-Some useless content
-   <artifactId>my-application1</artifactId>
-   <version>10.0</version>
-   <packaging>jar</packaging>
-something else
-remove this 
+    <artifactId>hindi</artifactId>
+    <version>123</version>
+    <packaging>pom</packaging>
+
+    <properties>
+        <version.common>season123</version.common>
+    </properties>
+
+    <modules>
+        <module>happyclub</module>
+        <module>wolfpack</module>
+        <module>salmankhan</module>
+    </modules>
+</project>
