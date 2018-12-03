@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ns0:project xmlns:ns0="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 ../maven-v4_0_0.xsd">
-    <ns0:modelVersion>1234</ns0:modelVersion>
-    <ns0:parent>
-        <ns0:groupId>bigboss</ns0:groupId>
-        <ns0:artifactId>hello</ns0:artifactId>
-        <ns0:version>128</ns0:version>
-        <ns0:relativePath>../pom.xml</ns0:relativePath>
-    </ns0:parent>
-</ns0:project>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 ../maven-v4_0_0.xsd">
+    <modelVersion>1234</modelVersion>
+    <parent>
+        <groupId>bigboss</groupId>
+        <artifactId>hello</artifactId>
+        <version>127</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+</project>
