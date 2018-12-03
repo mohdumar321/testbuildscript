@@ -15,8 +15,6 @@
     </properties>
 
     <modules>
-        <module>happyclub</module>
-        <module>wolfpack</module>
         <module>salmankhan</module>
     </modules>
 </project>
