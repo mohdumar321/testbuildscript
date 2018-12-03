@@ -3,8 +3,7 @@
     <parent>
         <groupId>bigboss</groupId>
         <artifactId>hello</artifactId>
-        <version>123</version>
+        <version>124</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
-</project>  
-  
+</project>

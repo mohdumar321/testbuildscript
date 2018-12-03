@@ -7,7 +7,7 @@
     </parent>
 
     <artifactId>hindi</artifactId>
-    <version>123</version>
+    <version>124</version>
     <packaging>pom</packaging>
 
     <properties>
